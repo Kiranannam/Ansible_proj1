@@ -1,0 +1,10 @@
+jws_zip_src: ""
+jws_zip_dst: "/usr/share/jboss-as/ "
+jws_user: "jboss"
+jws_group: "JBoss"
+
+jws_dst: "/usr/share/jboss-as/"
+
+http_port: 8080
+https_port: 8443
+
